@@ -1,0 +1,37 @@
+<fulfillmentToken fulfillmentType="loan" auth="user" xmlns="http://ns.adobe.com/adept">
+  <distributor>urn:uuid:f9e24464-0869-4fd2-80f3-ae1757626bfc</distributor>
+  <operatorURL>http://mebookln.mondadori.it/fulfillment</operatorURL>
+  <transaction>mli_100001559_1_4</transaction>
+  <expiration>2014-11-22T14:35:43+01:00</expiration>
+  <resourceItemInfo>
+    <resource>urn:uuid:564e9f59-f178-48eb-8b4a-fb33d762fe40</resource>
+    <resourceItem>0</resourceItem>
+    <metadata>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">True. La mia storia</dc:title>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mike Tyson</dc:creator>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Piemme</dc:publisher>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/">9788858510070</dc:identifier>
+      <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">application/epub+zip</dc:format>
+      <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">it-IT</dc:language>
+      <thumbnailURL>http://mebookln.mondadori.it/mebookln/564e9f59-f178-48eb-8b4a-fb33d762fe40.jpg</thumbnailURL>
+    </metadata>
+    <licenseToken>
+      <resource>urn:uuid:564e9f59-f178-48eb-8b4a-fb33d762fe40</resource>
+      <permissions>
+        <display>
+          <duration>1209600</duration>
+        </display>
+        <excerpt>
+          <duration>1209600</duration>
+        </excerpt>
+        <print>
+          <duration>1209600</duration>
+        </print>
+        <play>
+          <duration>1209600</duration>
+        </play>
+      </permissions>
+    </licenseToken>
+  </resourceItemInfo>
+  <hmac>yjlFSOdgRBsiJF2mfYZ8mNYvjjU=</hmac>
+</fulfillmentToken>
